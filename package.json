@@ -1,0 +1,23 @@
+{
+  "name": "demo-api",
+  "version": "0.0.1",
+  "description": "Demo API for test data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stijnstroeve/demo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stijnstroeve/demo-api/issues"
+  },
+  "homepage": "https://github.com/stijnstroeve/demo-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
